@@ -1,1 +1,1 @@
-# Simple_Calculato using html,css,javascriptr-
+# Simple_Calculato using html,css,javascript-

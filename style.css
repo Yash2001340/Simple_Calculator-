@@ -1,0 +1,39 @@
+h1{
+    text-align:center;
+}
+.container{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+}
+.row{
+    margin:auto;
+}
+.btn{
+    font-size:17px;
+    border-radius:13px;
+    padding:20px;
+    margin:4px;
+    cursor:pointer;
+    background: aliceblue;
+    text-align:center;
+
+}
+.calculate input{
+    width: 264px;
+    height: 33px;
+    margin:25px;
+    border-radius:10px;
+}
+#row-1{
+    padding-left:10px;
+}
+#row-5{
+    padding-right:70px;
+}
+#row-5 :nth-child(1){
+    width: 126px;
+    /* padding-left: 11px; */
+    margin-left: 70px;
+}
